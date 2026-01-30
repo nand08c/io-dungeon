@@ -1,0 +1,7 @@
+Welcome to io-dungeon demo!
+Player enters the dungeon.
+You found a torch on the floor.
+A goblin appears!
+You strike the goblin for 5 damage.
+Goblin flees into the darkness.
+You rest and recover your breath.
